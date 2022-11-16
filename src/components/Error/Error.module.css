@@ -1,0 +1,7 @@
+.error{
+  font-size: large;
+  color: red;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  justify-content: center;
+  align-items: center;
+}
